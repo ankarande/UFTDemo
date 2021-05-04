@@ -1,0 +1,347 @@
+<Results>
+    <GeneralInfo>
+        <Name/>
+        <RunStartTime>2021-04-16 14:28:42</RunStartTime>
+        <Timezone>India Standard Time</Timezone>
+        <OrchestrationToolName>JUnit</OrchestrationToolName>
+        <OrchestrationToolVersion/>
+        <ReportTitle>UFT Developer Report</ReportTitle>
+    </GeneralInfo>
+    <ReportNode type="Run">
+        <Data>
+            <Name>Run Results</Name>
+            <Description>
+                <![CDATA[ ]]>
+            </Description>
+            <StartTime>2021-04-16 14:28:42</StartTime>
+            <Result>Passed</Result>
+            <Links/>
+            <Duration>
+                <![CDATA[00:00:16.372]]>
+            </Duration>
+            <Extension>
+                <Any>
+                    <IconKey>Run</IconKey>
+                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                </Any>
+            </Extension>
+            <Environment>
+                <OSInfo>
+                    <![CDATA[Microsoft Windows NT 6.2.9200.0]]>
+                </OSInfo>
+                <HostName>
+                    <![CDATA[DESKTOP-JJDVS7M]]>
+                </HostName>
+                <NumberOfCores>4</NumberOfCores>
+                <CpuInfo/>
+                <TotalMemory>3894</TotalMemory>
+                <Locale>
+                    <![CDATA[en-IN]]>
+                </Locale>
+                <Timezone>India Standard Time</Timezone>
+                <User>Amol</User>
+            </Environment>
+            <TestedApplication/>
+            <ToolName>UFT Developer</ToolName>
+            <ToolVersion>
+                <![CDATA[15.0.2]]>
+            </ToolVersion>
+        </Data>
+        <ReportNode type="Package">
+            <Data>
+                <Name>
+                    <![CDATA[com.uft]]>
+                </Name>
+                <Description>
+                    <![CDATA[Version: N/A]]>
+                </Description>
+                <StartTime>2021-04-16 14:28:44</StartTime>
+                <Result>Passed</Result>
+                <Links/>
+                <Duration>
+                    <![CDATA[00:00:14.614]]>
+                </Duration>
+                <Extension>
+                    <Any>
+                        <IconKey>Package</IconKey>
+                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                    </Any>
+                </Extension>
+            </Data>
+            <ReportNode type="Class">
+                <Data>
+                    <Name>
+                        <![CDATA[com.uft.UFTDeveloperTest]]>
+                    </Name>
+                    <Description/>
+                    <StartTime>2021-04-16 14:28:44</StartTime>
+                    <Result>Passed</Result>
+                    <Links/>
+                    <Duration>
+                        <![CDATA[00:00:14.614]]>
+                    </Duration>
+                    <Extension>
+                        <Any>
+                            <IconKey>Class</IconKey>
+                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                        </Any>
+                    </Extension>
+                </Data>
+                <ReportNode type="Test">
+                    <Data>
+                        <Name>test</Name>
+                        <Description/>
+                        <StartTime>2021-04-16 14:28:44</StartTime>
+                        <Result>Passed</Result>
+                        <Links/>
+                        <Duration>
+                            <![CDATA[00:00:14.582]]>
+                        </Duration>
+                        <Extension>
+                            <Any>
+                                <IconKey>Test</IconKey>
+                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                            </Any>
+                        </Extension>
+                    </Data>
+                    <ReportNode type="Step">
+                        <Data>
+                            <Name>
+                                <![CDATA[Browser.launch]]>
+                            </Name>
+                            <Description>
+                                <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>CHROME</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div> </p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>Chrome</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>89.0</td></tr><tr><td class='ex-name'>max concurrent tests</td><td class='ex-value'>9.007199254740991E15</td></tr><tr><td class='ex-name'>osVersion</td><td class='ex-value'>10</td></tr><tr><td class='ex-name'>osType</td><td class='ex-value'>Windows</td></tr><tr><td class='ex-name'>name</td><td class='ex-value'>DESKTOP-JJDVS7M</td></tr><tr><td class='ex-name'>id</td><td class='ex-value'>DESKTOP-JJDVS7M</td></tr></table>]]>
+                            </Description>
+                            <StartTime>2021-04-16 14:28:44</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Duration>
+                                <![CDATA[00:00:00.000]]>
+                            </Duration>
+                            <Extension>
+                                <Any>
+                                    <TestObject>
+                                        <Path/>
+                                        <Operation>launch</Operation>
+                                        <OperationData>
+                                            <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>CHROME</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div> </p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>Chrome</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>89.0</td></tr><tr><td class='ex-name'>max concurrent tests</td><td class='ex-value'>9.007199254740991E15</td></tr><tr><td class='ex-name'>osVersion</td><td class='ex-value'>10</td></tr><tr><td class='ex-name'>osType</td><td class='ex-value'>Windows</td></tr><tr><td class='ex-name'>name</td><td class='ex-value'>DESKTOP-JJDVS7M</td></tr><tr><td class='ex-name'>id</td><td class='ex-value'>DESKTOP-JJDVS7M</td></tr></table>]]>
+                                        </OperationData>
+                                        <Properties/>
+                                    </TestObject>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    <IconKey>Browser</IconKey>
+                                    <CustomUIElements>
+                                        <DescriptionLabel>Data</DescriptionLabel>
+                                        <FlowTreeNodeCaption>
+                                            <![CDATA[Browser.<span class='emphasis'>launch("Chrome")</span>]]>
+                                        </FlowTreeNodeCaption>
+                                        <FlowTreeNodeTooltip>
+                                            <![CDATA[Browser.launch("Chrome")]]>
+                                        </FlowTreeNodeTooltip>
+                                    </CustomUIElements>
+                                    <HideContextInfo>true</HideContextInfo>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="Step">
+                        <Data>
+                            <Name>
+                                <![CDATA[about:blank.navigate]]>
+                            </Name>
+                            <Description>
+                                <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>https://www.amazon.in/Girl-clothing/b/ref=brb_Kids_Girls_Clothing?ie=UTF8&amp;node=1967936031&amp;pf_rd_m=A1VBAL9TL5WCBF&amp;pf_rd_s=merchandised-search-leftnav&amp;pf_rd_r=YNAFCFTZW5QVJWNTPBNN&amp;pf_rd_r=YNAFCFTZW5QVJWNTPBNN&amp;pf_rd_t=101&amp;pf_rd_p=d7786278-ce45-4df3-9132-c01aff0fdd85&amp;pf_rd_p=d7786278-ce45-4df3-9132-c01aff0fdd85&amp;pf_rd_i=9361420031</td></tr></table>]]>
+                            </Description>
+                            <StartTime>2021-04-16 14:28:51</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Duration>
+                                <![CDATA[00:00:00.068]]>
+                            </Duration>
+                            <Extension>
+                                <Any>
+                                    <TestObject>
+                                        <Path>
+                                            <Object>
+                                                <Type>Web.Browser</Type>
+                                                <Name>
+                                                    <![CDATA[about:blank]]>
+                                                </Name>
+                                            </Object>
+                                        </Path>
+                                        <Operation>navigate</Operation>
+                                        <OperationData>
+                                            <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>https://www.amazon.in/Girl-clothing/b/ref=brb_Kids_Girls_Clothing?ie=UTF8&amp;node=1967936031&amp;pf_rd_m=A1VBAL9TL5WCBF&amp;pf_rd_s=merchandised-search-leftnav&amp;pf_rd_r=YNAFCFTZW5QVJWNTPBNN&amp;pf_rd_r=YNAFCFTZW5QVJWNTPBNN&amp;pf_rd_t=101&amp;pf_rd_p=d7786278-ce45-4df3-9132-c01aff0fdd85&amp;pf_rd_p=d7786278-ce45-4df3-9132-c01aff0fdd85&amp;pf_rd_i=9361420031</td></tr></table>]]>
+                                        </OperationData>
+                                        <Properties>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[type]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[Chrome]]>
+                                                </Value>
+                                            </Property>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[version]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[89.0]]>
+                                                </Value>
+                                            </Property>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[max concurrent tests]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[9.007199254740991E15]]>
+                                                </Value>
+                                            </Property>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[osVersion]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[10]]>
+                                                </Value>
+                                            </Property>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[osType]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[Windows]]>
+                                                </Value>
+                                            </Property>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[name]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[DESKTOP-JJDVS7M]]>
+                                                </Value>
+                                            </Property>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[id]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[DESKTOP-JJDVS7M]]>
+                                                </Value>
+                                            </Property>
+                                        </Properties>
+                                    </TestObject>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    <IconKey>Browser</IconKey>
+                                    <CustomUIElements>
+                                        <DescriptionLabel>Data</DescriptionLabel>
+                                    </CustomUIElements>
+                                    <Descriptive>
+                                        <TestObject>
+                                            <Path>
+                                                <Object>
+                                                    <Type>Web.Browser</Type>
+                                                    <Name>
+                                                        <![CDATA[about:blank]]>
+                                                    </Name>
+                                                    <IconKey>Browser</IconKey>
+                                                </Object>
+                                            </Path>
+                                        </TestObject>
+                                    </Descriptive>
+                                    <HideContextInfo>true</HideContextInfo>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="Step">
+                        <Data>
+                            <Name>
+                                <![CDATA[WebElement.click]]>
+                            </Name>
+                            <Description/>
+                            <StartTime>2021-04-16 14:28:52</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Duration>
+                                <![CDATA[00:00:07.188]]>
+                            </Duration>
+                            <Extension>
+                                <Any>
+                                    <TestObject>
+                                        <Path>
+                                            <Object>
+                                                <Type>Web.Browser</Type>
+                                                <Name>
+                                                    <![CDATA[Girls Wear: Buy Baby Girl Clothes online at best prices in India - Amazon.in]]>
+                                                </Name>
+                                            </Object>
+                                            <Object>
+                                                <Type>Web.Page</Type>
+                                                <Name>
+                                                    <![CDATA[Girls Wear: Buy Baby Girl Clothes online at best prices in India - Amazon.in]]>
+                                                </Name>
+                                            </Object>
+                                            <Object>
+                                                <Type>Web.WebElement</Type>
+                                                <Name>
+                                                    <![CDATA[WebElement]]>
+                                                </Name>
+                                            </Object>
+                                        </Path>
+                                        <Operation>click</Operation>
+                                        <OperationData/>
+                                        <Properties>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[xPath]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[  //body/div[@id='a-page']/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/span[1]/a[1]/div[1]/label[1]/input[1]]]>
+                                                </Value>
+                                            </Property>
+                                        </Properties>
+                                    </TestObject>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    <IconKey>WebElement</IconKey>
+                                    <CustomUIElements>
+                                        <DescriptionLabel>Data</DescriptionLabel>
+                                    </CustomUIElements>
+                                    <Descriptive>
+                                        <TestObject>
+                                            <Path>
+                                                <Object>
+                                                    <Type>Web.Browser</Type>
+                                                    <Name>
+                                                        <![CDATA[Girls Wear: Buy Baby Girl Clothes online at best prices in India - Amazon.in]]>
+                                                    </Name>
+                                                    <IconKey>Browser</IconKey>
+                                                </Object>
+                                                <Object>
+                                                    <Type>Web.Page</Type>
+                                                    <Name>
+                                                        <![CDATA[Girls Wear: Buy Baby Girl Clothes online at best prices in India - Amazon.in]]>
+                                                    </Name>
+                                                    <IconKey>Page</IconKey>
+                                                </Object>
+                                                <Object>
+                                                    <Type>Web.WebElement</Type>
+                                                    <Name>
+                                                        <![CDATA[WebElement]]>
+                                                    </Name>
+                                                    <IconKey>WebElement</IconKey>
+                                                </Object>
+                                            </Path>
+                                        </TestObject>
+                                    </Descriptive>
+                                    <HideContextInfo>true</HideContextInfo>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                </ReportNode>
+            </ReportNode>
+        </ReportNode>
+    </ReportNode>
+</Results>
